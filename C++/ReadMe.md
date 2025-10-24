@@ -1,5 +1,5 @@
 # Typical C++ Project Structure
-
+```bash
 project_name/
 │
 ├── include/              # Header files (.h or .hpp)
@@ -15,4 +15,5 @@ project_name/
 ├── build/                # Compiled object files or build system output
 │
 └── CMakeLists.txt        # (if using CMake)
+```
 
